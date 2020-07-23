@@ -20,4 +20,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 -->
 
-![Lijingcheng's github stats](https://github-readme-stats.vercel.app/api?username=lijingcheng&show_icons=true&theme=dracula&hide=["contribs","prs"])
+![Lijingcheng's github stats](https://github-readme-stats.vercel.app/api?username=lijingcheng&show_icons=true&theme=dracula)
