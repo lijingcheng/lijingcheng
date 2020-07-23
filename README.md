@@ -9,15 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
-<!--&hide=["stars","prs","issues","contribs"]
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lijingcheng)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-![Lijingcheng's github stats](https://github-readme-stats.vercel.app/api?username=lijingcheng&show_icons=true&theme=dracula)
+![Lijingcheng's github stats](https://github-readme-stats.vercel.app/api?username=lijingcheng&hide=["prs"]&show_icons=true&theme=dracula)
