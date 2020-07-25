@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mtime.
-- 🌱 I’m currently learning iOS & Android.
-- 💬 Ask me about iOS & Motocycle.
+- 🌱 I’m currently learning iOS & Manage.
+- 💬 Ask me about iOS & Tibet.
 - 📫 How to reach me: GitHub.
-- ⚡ Fun fact: motocycle & mountain biking.
+- ⚡ Fun fact: Motocycle & Basketball.
